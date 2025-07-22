@@ -1,0 +1,101 @@
+course_srno,course_name,credit
+1,English,2
+2,Economics,2
+3,"Business Studies",5
+4,"Business Studies 84",5
+5,"Database Management",3
+6,Biology,5
+7,Mathematics,5
+8,"Environmental Science",2
+9,"Data Structures",5
+10,"Economics 93",3
+11,Finance,2
+12,"Mobile App Dev",4
+13,"Mathematics 3",2
+14,Law,2
+15,"Machine Learning",5
+16,"Engineering Drawing",3
+17,"Environmental Science 93",2
+18,Accounting,3
+19,"Operating Systems",5
+20,"Machine Learning 64",3
+21,Psychology,3
+22,"Engineering Drawing 29",5
+23,"Machine Learning 38",2
+24,"Environmental Science 72",2
+25,History,4
+26,"Biology 96",4
+27,"Mobile App Dev 93",5
+28,"Accounting 86",3
+29,"Political Science",4
+30,"Finance 64",5
+31,"Finance 5",5
+32,"Computer Science",5
+33,"Environmental Science 86",3
+34,"Psychology 71",4
+35,Chemistry,5
+36,"Engineering Drawing 66",2
+37,"Operating Systems 21",5
+38,"Psychology 63",2
+39,"Business Studies 6",4
+40,"Data Structures 79",5
+41,"Law 22",3
+42,"Accounting 30",2
+43,"Operating Systems 26",3
+44,Sociology,4
+45,"Machine Learning 74",4
+46,Philosophy,4
+47,"Engineering Drawing 71",2
+48,"Sociology 95",3
+49,"Accounting 72",3
+50,"Environmental Science 8",5
+51,"Web Development",4
+52,"Finance 71",3
+53,"Machine Learning 65",5
+54,"Business Studies 46",5
+55,"Psychology 1",4
+56,"Philosophy 77",2
+57,"Database Management 30",3
+58,Marketing,3
+59,"Web Development 12",4
+60,Physics,2
+61,"Chemistry 3",5
+62,"Mathematics 97",4
+63,"Computer Science 35",2
+64,"Database Management 80",3
+65,"Psychology 38",2
+66,"History 21",4
+67,"Accounting 22",4
+68,"Law 92",4
+69,"Philosophy 90",4
+70,"Business Studies 61",2
+71,"Mathematics 40",5
+72,Statistics,5
+73,"Database Management 25",4
+74,"Biology 33",3
+75,"Machine Learning 78",5
+76,Networking,2
+77,"Computer Science 3",5
+78,"English 5",3
+79,"Philosophy 91",5
+80,"Marketing 29",5
+81,"Computer Science 68",2
+82,"Sociology 87",4
+83,"Engineering Drawing 81",5
+84,"Physics 95",4
+85,"English 28",2
+86,"Political Science 10",2
+87,"Political Science 39",3
+88,"Environmental Science 73",4
+89,"English 2",2
+90,"Finance 28",5
+91,"History 91",2
+92,"Sociology 26",4
+93,"Biology 27",5
+94,"Finance 25",5
+95,"Biology 86",5
+96,"Political Science 65",5
+97,"Mathematics 42",5
+98,"Mobile App Dev 37",2
+99,"History 26",4
+100,"Database Management 73",3
